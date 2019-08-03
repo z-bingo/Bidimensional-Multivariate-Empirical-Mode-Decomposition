@@ -1,8 +1,8 @@
 ## Bidimensional-Multivariate-Empirical-Mode-Decomposition
-Matlab code of BMEMD (Bidimensional Multivariate Empirical Mode Decomposition).
+Matlab codes of Bidimensional Multivariate Empirical Mode Decomposition (BMEMD).
 
 ### Introduction
-BMEMD is a bidimensional and multivariate version of original EMD, which is capable of processing multi-images, such as image fusion, texture analysis and so on. More details about the BMEMD can be refered in our paper [Bidimensional Multivariate Empirical Mode Decomposition with Applications in Multi-Scale Image Fusion]().
+BMEMD is a bidimensional and multivariate version of original EMD, which is capable of processing multi-images, such as image fusion, texture analysis and so on. More details about the BMEMD can be referred in our paper [Bidimensional Multivariate Empirical Mode Decomposition with Applications in Multi-Scale Image Fusion]().
 
 ### Requirements
 - Image Processing Toolbox (installing in Matlab)
@@ -11,9 +11,9 @@ BMEMD is a bidimensional and multivariate version of original EMD, which is capa
 ### How to use these codes?
 #### Files and Directories
 - bmemd.m
-  - the main code of proposed BMEMD
+  - main code of proposed BMEMD
 - bmemd_fusion.m
-  - its application on multi-images fusion, several images are provided at path ./IMG
+  - its application on multi-images fusion, several images are provided at path `./IMG`
 - Texture_Generate.m
   - the code to generate synthetic texture images in paper
 
