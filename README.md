@@ -39,14 +39,14 @@ q: a cell of length Q, the number of IMFs, and each array in the cell
 ### Citation
 ```tex
 @article{Xia2019BMEMD, 
-	author		= "Y. Xia and B. Zhang and W. Pei and D. P. Mandic", 
-	journal		= "IEEE Access",
-	title		= "Bidimensional Multivariate Empirical Mode Decomposition With Applications in Multi-Scale Image Fusion",
-	year		= "2019",
-	volume		= "7", 
-	pages		= "114261-114270", 
-	doi 		= "10.1109/ACCESS.2019.2936030", 
-	ISSN		= "2169-3536", 
-	month		= "Dec."
+	author		= {Y. Xia and B. Zhang and W. Pei and D. P. Mandic}, 
+	journal		= {IEEE Access},
+	title		= {Bidimensional Multivariate Empirical Mode Decomposition With Applications in Multi-Scale Image Fusion},
+	year		= {2019},
+	volume		= {7}, 
+	pages		= {114261-114270}, 
+	doi 		= {10.1109/ACCESS.2019.2936030}, 
+	ISSN		= {2169-3536}, 
+	month		= {Dec.}
 }
 ```
