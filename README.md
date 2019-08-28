@@ -2,10 +2,10 @@
 Matlab codes of Bidimensional Multivariate Empirical Mode Decomposition (BMEMD).
 
 ### Introduction
-BMEMD is a bidimensional and multivariate version of original EMD, which is capable of processing multi-images, such as image fusion, texture analysis and so on. More details about the BMEMD can be referred in our paper [Bidimensional Multivariate Empirical Mode Decomposition with Applications in Multi-Scale Image Fusion]().
+BMEMD is a bidimensional and multivariate version of original EMD, which is capable of processing multi-images, such as image fusion, texture analysis and so on. More details about the BMEMD can be referred in our paper [Bidimensional Multivariate Empirical Mode Decomposition with Applications in Multi-Scale Image Fusion](https://ieeexplore.ieee.org/document/8805082?source=authoralert).
 
 ### Requirements
-- Image Processing Toolbox (installing in Matlab)
+- Image Processing Toolbox (installed in Matlab)
 - gridfitdir (attanched in this repo., add the path to your Matlab environment)
 
 ### How to use these codes?
@@ -38,12 +38,15 @@ q: a cell of length Q, the number of IMFs, and each array in the cell
 
 ### Citation
 ```tex
-@article{BMEMD_2019_Xia,
-    title   = "Bidimensional Multivariate Empirical Mode Decomposition with Applications in Multi-Scale Image Fusion",
-    author  = "Y. Xia and B. Zhang and W. Pei and D. P. Mandic",
-    journal = "",
-    year    = "",
-    month   = "",
-    pages   = ""
+@article{Xia2019BMEMD, 
+	author		= "Y. Xia and B. Zhang and W. Pei and D. P. Mandic", 
+	journal		= "IEEE Access",
+	title		= "Bidimensional Multivariate Empirical Mode Decomposition With Applications in Multi-Scale Image Fusion",
+	year		= "2019",
+	volume		= "7", 
+	pages		= "114261-114270", 
+	doi 		= "10.1109/ACCESS.2019.2936030", 
+	ISSN		= "2169-3536", 
+	month		= "Dec."
 }
 ```
